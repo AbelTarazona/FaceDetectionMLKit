@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "824420419355",
+    "firebase_url": "https://facedetectionbitel.firebaseio.com",
+    "project_id": "facedetectionbitel",
+    "storage_bucket": "facedetectionbitel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824420419355:android:4fc5ef3c4f11a57b7475be",
+        "android_client_info": {
+          "package_name": "com.company.facedetectionml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824420419355-dmhcg8po3na9hrgr35836bkp1agcplfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhhN4-bBtafI2L2JP9JNkpwePx3XOiYrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824420419355-dmhcg8po3na9hrgr35836bkp1agcplfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
